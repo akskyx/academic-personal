@@ -3,7 +3,7 @@
 title: Kui An
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Kui
@@ -23,9 +23,9 @@ highlight_name: true
 role: Master of Physics
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+# organizations:
+  # - name: OpenAI
+  # url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,8 +47,8 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Optics
+  - Imaging
   - Information Retrieval
 
 education:
