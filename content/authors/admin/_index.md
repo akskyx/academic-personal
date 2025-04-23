@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kui An
+title: Kui Ana
 
 # Name pronunciation (optional)
 # name_pronunciation: 
@@ -145,7 +145,7 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
+    percent: 100
   - name: Portuguese
     percent: 25
 
