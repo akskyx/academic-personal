@@ -53,29 +53,28 @@ interests:
 
 education:
   - area: MSc Quantum Optics
-    institution: Shandong University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Shandong University (Project 985), China
+    date_start: 2021-09
+    date_end: 2024-06
     summary: |
       GPA: 90.7/100
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advanced Optics (93/100)
+      - Digital Image Processing (94/100)
   - area: BSc Physics
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Shandong University (Project 985), China
+    date_start: 2021-09
+    date_end: 2017-09
     summary: |
       GPA: 88.01/100
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Optcis (93/100)
+      - Physics Experiment (including 7 experimental courses, all "Excellent")
+      
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Director of Cloud nothing
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -101,13 +100,13 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Experimental Skills
     items:
       - name: Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Optical experiment
         description: ''
         percent: 100
         icon: chart-bar
@@ -115,7 +114,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: Programming
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -134,24 +133,23 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
     percent: 100
-  - name: Portuguese
-    percent: 25
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Academic First-Class Scholarship
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
-    awarder: Coursera
+    awarder: Shandong University
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Top 5% in academic performance
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -174,4 +172,4 @@ awards:
 
 ## About Me
 
-Welcome! I am Kui An, a recently graduted master from Shandong University.
+Welcome! I am a master graduted from Shandong University (Jinan, China), specializing in quantum optics. My main research involves using novel optical device and designing corresponding algorithm to improve the efficiency of characterizing photonic states. All studies can be found in "Research" section. I am recently looking for PhD position in optics and imaging.
