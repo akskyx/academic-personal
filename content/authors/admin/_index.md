@@ -67,40 +67,28 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Physics
+    institution: Shandong University (Project 985), China
+    date_start: 2017-09-01
+    date_end: 2021-06-23
     summary: |
-      GPA: 3.4/4.0
+      GPA: 88.01/100
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Optcis (93/100)
+      - Physics Experiment (including 7 experimental courses, all "Excellent")
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Teaching assistant
+    company_name: Comprehensive Experiment (optical experiment)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-09-01
+    date_end: '2024-06-23'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Completing the new version of two experimental lecture notes (Zeeman effect and acousto-optic effect)
+      - Explaining to the students the possible reasons for the failure of the experiment
+      - Renovating and upgrading the original experimental setup
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
