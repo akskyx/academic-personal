@@ -54,8 +54,8 @@ interests:
 education:
   - area: MSc Quantum Optics
     institution: Shandong University (Project 985), China
-    date_start: 2021-09
-    date_end: 2024-06
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
