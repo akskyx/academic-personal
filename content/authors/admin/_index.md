@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Welcome! I am Kui An, a recently graduted master from Shandong University.
+Welcome! I am a master graduted from Shandong University (Jinan, China), specializing in quantum optics. My main research involves using novel optical device and designing corresponding algorithm to improve the efficiency of characterizing photonic states. All studies can be found in "Research" section. I am recently looking for PhD position in optics and imaging.
