@@ -79,7 +79,7 @@ education:
       - Physics Experiment (including 7 experimental courses, all "Excellent")
 work:
   - position: Teaching assistant
-    company_name: Comprehensive Experiment (optical experiment)
+    company_name: Comprehensive Experiment Course (optical experiment)
     company_url: ''
     company_logo: ''
     date_start: 2021-09-01
@@ -87,19 +87,19 @@ work:
     summary: |2-
       Responsibilities include:
       - Completing the new version of two experimental lecture notes (Zeeman effect and acousto-optic effect)
-      - Explaining to the students the possible reasons for the failure of the experiment
+      - Running simulation and making videos to explaining the principle of acousto-optic effect
       - Renovating and upgrading the original experimental setup
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Experimental Skills
     items:
-      - name: Python
+      - name: Space optical experiment
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Micro-nano optical experiment
         description: ''
         percent: 100
         icon: chart-bar
@@ -126,11 +126,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
     percent: 100
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
