@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kui Ana
+title: Kui An
 
 # Name pronunciation (optional)
 # name_pronunciation: 
@@ -10,8 +10,8 @@ first_name: Kui
 last_name: An
 
 # Status emoji
-status:
-  icon: ⚛️
+#status:
+#  icon: ⚛️
 
 # Is this the primary user of the site?
 superuser: true
