@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -41,7 +41,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
+  - block: markdown
     content:
       title: All Publications
       text: "ff"
@@ -80,7 +80,7 @@ sections:
            
            - Physics Experiment (including 7 experimental courses, all "Excellent")
     design:
-      columns: '1'
+      columns: '2'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
