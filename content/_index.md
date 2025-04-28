@@ -33,7 +33,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: 📚 Publication and Conference
+      title: 📚 Featured Publication and Conference
       filters:
         folders:
           - publication
@@ -43,14 +43,10 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+      title: All Publications
+      text: "ff"
     design:
-      view: citation
+      columns: '1'
   - block: markdown
     content:
       title: '🏫 Education'

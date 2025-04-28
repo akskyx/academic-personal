@@ -1,5 +1,5 @@
 ---
-title: "Efficient Characterizations of Multiphoton States with an ultra-thin optical device"
+title: "Efficient characterizations of multiphoton states with an ultra-thin optical device"
 authors:
 - admin
 #author_notes:
@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Metasurface enables the generation and manipulation of multiphoton entanglement with flat optics, providing a more efficient platform for large-scale photonic quantum information processing. Here, we show that a single metasurface optical device would allow more efficient characterizations of multiphoton entangled states, such as shadow tomography, which generally requires fast and complicated control of optical setups to perform information-complete measurements, a demanding task using conventional optics. The compact and stable device here allows implementations of general positive operator valued measures with a reduced sample complexity and significantly alleviates the experimental complexity to implement shadow tomography. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton entanglement, including using fewer measurements, having higher accuracy, and being robust against experimental imperfections. Our work unveils the feasibility of metasurface as a favorable integrated optical device for efficient characterization of multiphoton entanglement, and sheds light on scalable photonic quantum technologies with ultra-thin optical devices.
 
 # Summary. An optional shortened abstract.
-summary: "Nature Communications 15, 3944 (2024)"
+summary: "_Nature_ Communications 15, 3944 (2024)"
 
 tags:
 - Metasurface, ultra-thin optical device
@@ -34,12 +34,7 @@ featured: true
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

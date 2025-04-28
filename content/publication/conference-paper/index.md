@@ -31,7 +31,7 @@ abstract: Programmable linear optics is well-placed in quantum information scien
 
 
 # Summary. An optional shortened abstract.
-summary: Oral Presentation at Progress in Electromagnetics Research Symposium (**PIERS**), Prague, Czech Republic (2023).
+summary: "Oral Presentation at Progress in Electromagnetics Research Symposium (**PIERS**), Prague, Czech Republic (2023)"
 
 tags:
   - 'Optical chip, Machine learning'
