@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks-1.svg
+          filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
@@ -56,23 +56,33 @@ sections:
       title: '🏫 Education'
       subtitle: ''
       text: |-
-          🎓area: MSc Quantum Optics
-          Shandong University (Project 985), China
-          2021-09 to 2024-06
-          GPA: 90.7/100
+          🎓MSc Quantum Optics
 
-          Courses included:
-          Advanced Optics (93/100)
-          Digital Image Processing (94/100)
+          🏫Shandong University (Project 985), China
 
-          🎓area: BSc Physics
-          Shandong University (Project 985), China
-          2017-09 to 2021-06
-          GPA: 88.01/100
+          🕐2021-09 to 2024-06
 
-          Courses included:
-          Optcis (93/100)
-          Physics Experiment (including 7 experimental courses, all "Excellent")
+          📑GPA: 90.7/100
+
+          ✨Courses included:
+
+           - Advanced Optics (93/100)
+
+           - Digital Image Processing (94/100)
+
+          🎓BSc Physics
+
+          🏫Shandong University (Project 985), China
+
+          🕓2017-09 to 2021-06
+
+          📑GPA: 88.01/100
+
+          ✨Courses included:
+
+           - Optcis (93/100)
+           
+           - Physics Experiment (including 7 experimental courses, all "Excellent")
     design:
       columns: '1'
   - block: cta-card
