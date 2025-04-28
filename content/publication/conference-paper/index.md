@@ -31,7 +31,7 @@ abstract: Programmable linear optics is well-placed in quantum information scien
 
 
 # Summary. An optional shortened abstract.
-summary: Oral Presentation at Progress in Electromagnetics Research Symposium ([PIERS](https://piers.org/)), Prague, Czech Republic (2023).
+summary: Oral Presentation at Progress in Electromagnetics Research Symposium ([**PIERS**](https://piers.org/)), Prague, Czech Republic (2023).
 
 tags:
   - 'Optical chip, Machine learning'
@@ -44,13 +44,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+#url_pdf: ''
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_project: ''
+#url_slides: ''
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
