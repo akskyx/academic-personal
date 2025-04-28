@@ -3,7 +3,14 @@ title: "Efficient characterizations of multiphoton states with an ultra-thin opt
 authors:
 - admin
 - Zi-lei Liu
-- Ting Zhang. et al.
+- Ting Zhang
+- Si-qi Li
+- You Zhou
+- Xiao Yuan
+- Lei-ran Wang
+- Wen-fu Zhang
+- Guo-xi Wang
+- He Lu
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
@@ -60,11 +67,11 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
+{{% callout hints %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
+{{% callout abstract %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 

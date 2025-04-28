@@ -80,6 +80,8 @@ sections:
            
            - Physics Experiment (including 7 experimental courses, all "Excellent")
     design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
       columns: '2'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
