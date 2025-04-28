@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -44,7 +44,11 @@ sections:
   - block: markdown
     content:
       title: All Publications
-      text: "ff"
+      text: |
+        - Kui An, Zi-lei Liu, Ting Zhang. et al. Efficient characterizations of multiphoton states with an ultra-thin optical device. _Nature_ _Communications_ 15, 3944 (2024).
+        - Kui An. Quantum Machine Learning with Linear Optics. Oral Presentation at Progress in Electromagnetics Research Symposium (PIERS), Prague, Czech Republic (2023).
+        - Xiao-Xu Fang, Kui An, Bai-Tao Zhang, Barry C. Sanders, and He Lu. Maximal coin-position entanglement generation in a quantum walk for the third step and beyond regardless of the initial state. Physics Review A 107, 012433 (2023).
+        - Jing Sun, Guan-qun Yu, Kui An. et al. Microwave-induced high-energy sites and targeted energy transition promising for efficient energy deployment. Frontiers in Energy 16, 931–942 (2022). 
     design:
       columns: '1'
   - block: markdown
@@ -81,7 +85,7 @@ sections:
            - Physics Experiment (including 7 experimental courses, all "Excellent")
     design:
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['1px', '0', '20px', '0']
       columns: '2'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site

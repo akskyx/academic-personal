@@ -13,10 +13,10 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Research
       filters:
         folders:
-          - teaching
+          - research
     design:
       view: article-grid
       columns: 2
