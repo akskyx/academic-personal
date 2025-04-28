@@ -6,8 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  #spacing: "3rem"
-  spacing: ['1px', '0', '20px', '0']
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -77,6 +76,14 @@ sections:
       spacing:
         padding: ['1px', '0', '20px', '0']
       columns: '2'
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

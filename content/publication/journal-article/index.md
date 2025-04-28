@@ -29,7 +29,7 @@ publication_types: ["article-journal"]
 publication: "*Nature Communications* 15, 3944 (2024)"
 publication_short: ""
 
-abstract: Metasurface enables the generation and manipulation of multiphoton entanglement with flat optics, providing a more efficient platform for large-scale photonic quantum information processing. Here, we show that a single metasurface optical device would allow more efficient characterizations of multiphoton entangled states, such as shadow tomography, which generally requires fast and complicated control of optical setups to perform information-complete measurements, a demanding task using conventional optics. The compact and stable device here allows implementations of general positive operator valued measures with a reduced sample complexity and significantly alleviates the experimental complexity to implement shadow tomography. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton entanglement, including using fewer measurements, having higher accuracy, and being robust against experimental imperfections. Our work unveils the feasibility of metasurface as a favorable integrated optical device for efficient characterization of multiphoton entanglement, and sheds light on scalable photonic quantum technologies with ultra-thin optical devices.
+#abstract: Metasurface enables the generation and manipulation of multiphoton entanglement with flat optics, providing a more efficient platform for large-scale photonic quantum information processing. Here, we show that a single metasurface optical device would allow more efficient characterizations of multiphoton entangled states, such as shadow tomography, which generally requires fast and complicated control of optical setups to perform information-complete measurements, a demanding task using conventional optics. The compact and stable device here allows implementations of general positive operator valued measures with a reduced sample complexity and significantly alleviates the experimental complexity to implement shadow tomography. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton entanglement, including using fewer measurements, having higher accuracy, and being robust against experimental imperfections. Our work unveils the feasibility of metasurface as a favorable integrated optical device for efficient characterization of multiphoton entanglement, and sheds light on scalable photonic quantum technologies with ultra-thin optical devices.
 
 # Summary. An optional shortened abstract.
 summary: "Nature Communications 15, 3944 (2024)"
@@ -67,12 +67,12 @@ projects: []
 slides: example
 ---
 
-{{% callout hint %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout tip %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+*Nature Communications* 15, 3944 (2024)
+{style="color: #ace8cb"}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+## Abstract
+
+Metasurface enables the generation and manipulation of multiphoton entanglement with flat optics, providing a more efficient platform for large-scale photonic quantum information processing. Here, we show that a single metasurface optical device would allow more efficient characterizations of multiphoton entangled states, such as shadow tomography, which generally requires fast and complicated control of optical setups to perform information-complete measurements, a demanding task using conventional optics. The compact and stable device here allows implementations of general positive operator valued measures with a reduced sample complexity and significantly alleviates the experimental complexity to implement shadow tomography. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton entanglement, including using fewer measurements, having higher accuracy, and being robust against experimental imperfections. Our work unveils the feasibility of metasurface as a favorable integrated optical device for efficient characterization of multiphoton entanglement, and sheds light on scalable photonic quantum technologies with ultra-thin optical devices.
+
+
