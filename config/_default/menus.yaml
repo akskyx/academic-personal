@@ -14,7 +14,7 @@ main:
     url: research/
     weight: 12
   - name: Skills
-    url: teaching/
+    url: skills/
     weight: 20
   - name: Experience
     url: experience/
