@@ -2,14 +2,14 @@
 title: "Efficient characterizations of multiphoton states with an ultra-thin optical device"
 authors:
 - admin
-- Zi-lei Liu
+- Zilei Liu
 - Ting Zhang
-- Si-qi Li
+- Siqi Li
 - You Zhou
 - Xiao Yuan
-- Lei-ran Wang
-- Wen-fu Zhang
-- Guo-xi Wang
+- Leiran Wang
+- Wenfu Zhang
+- Guoxi Wang
 - He Lu
 #author_notes:
 #- "Equal contribution"
@@ -67,11 +67,11 @@ projects: []
 slides: example
 ---
 
-{{% callout hints %}}
+{{% callout hint %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout abstract %}}
+{{% callout tip %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
