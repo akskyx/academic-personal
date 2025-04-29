@@ -85,5 +85,5 @@ Programmable linear optics is well-placed in quantum information science. Recent
 
 
 
-
-{{< figure src="1.jpg" caption="this is caption" alt="screen reader text" width="50%" >}}
+{{< figure src="2.jpg" caption="Oral presentation" alt="screen reader text" width="50%" >}}
+{{< figure src="1.jpg" caption="Picture with Prof. Vahid Sandoghdar" alt="screen reader text" width="50%" >}}

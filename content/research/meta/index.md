@@ -17,7 +17,7 @@ Metasurface enables compact measurement of polarization. Integrating self-learni
 
 I have made a 3d animation to demonstrate the experimental setup:
 
-    {{</* video src="3d.mp4" controls="yes" */>}}
+{{</* video src="3d.mp4" controls="yes" */>}}
 
 {{< youtube D2vj0WcvH5c >}}
 
