@@ -1,16 +1,16 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
+title: Efficient characterization of photons with an ultral-thin optical device
+summary: Metasurface enables compact measurement of polarization. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton states, including using fewer measurements, having higher accuracy, and being robust against experimental imperfections. 
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Python
+  - Novel experiment and algorithm
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+Metasurface enables compact measurement of polarization. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton states, including using fewer measurements, having higher accuracy, and being robust against experimental imperfections. 
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 

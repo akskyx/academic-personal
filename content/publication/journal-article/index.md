@@ -35,7 +35,7 @@ publication_short: ""
 summary: "Nature Communications 15, 3944 (2024)"
 
 tags:
-- Metasurface, ultra-thin optical device
+- Ultra-thin optical device + self-learning algorithm
 featured: true
 
 # links:
@@ -69,7 +69,7 @@ slides: example
 
 
 *Nature Communications* 15, 3944 (2024)
-{style="color: #ace8cb"}
+{style="color: #68a387"}
 
 ## Abstract
 
