@@ -12,13 +12,12 @@ image:
 
 Metasurface enables compact measurement of polarization. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton states, including using fewer measurements, having higher accuracy, and being robust against experimental imperfections. 
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+## 3D animation
 
-## Video
+I have made a 3d animation to demonstrate the experimental setup:
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+{{</* video src="3d.mp4" controls="yes" */>}}
 
 {{< youtube D2vj0WcvH5c >}}
 
@@ -42,9 +41,7 @@ You can add a podcast or music to a page by placing the MP3 file in the page's f
 
     {{</* audio src="ambient-piano.mp3" */>}}
 
-Try it out:
 
-{{< audio src="ambient-piano.mp3" >}}
 
 ## Test students
 
