@@ -1,11 +1,11 @@
 ---
 title: Optical chip enables hybrid neural network
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+summary: Combining optical chips with traditional electronic hardware, we have developed a hybrid neural network that can be used to directly detect the properties of photons. Hybrid neural networks demonstrate stronger robustness in photon purity estimation and can even estimate purity in the case of incomplete measurements.
+#date: 2023-10-24
 type: docs
 math: false
 tags:
-  - JavaScript
+  - optical chip
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

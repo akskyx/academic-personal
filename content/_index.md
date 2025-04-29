@@ -43,39 +43,13 @@ sections:
       columns: 2
   - block: markdown
     content:
-      title: All Publications
+      title: 📚 All Publications
       text: |
         - **Kui An**, Zi-lei Liu, Ting Zhang. et al. Efficient characterizations of multiphoton states with an ultra-thin optical device. **_Nature_ _Communications_** 15, 3944 (2024).
         - Xiao-Xu Fang, **Kui An**, Bai-Tao Zhang, Barry C. Sanders, and He Lu. Maximal coin-position entanglement generation in a quantum walk for the third step and beyond regardless of the initial state. **_Physics_ _Review_ _A_** 107, 012433 (2023).
         - Jing Sun, Guan-qun Yu, **Kui An**. et al. Microwave-induced high-energy sites and targeted energy transition promising for efficient energy deployment. **_Frontiers_ _in_ _Energy_** 16, 931–942 (2022). 
     design:
       columns: '1'
-  - block: markdown
-    content:
-      title: '🏫 Education'
-      subtitle: ''
-      text: |-
-          🎓MSc Quantum Optics
-          🏫Shandong University (Project 985), China
-          🕐2021-09 to 2024-06
-          📑GPA: 90.7/100
-
-          ✨Courses included:
-           - Advanced Optics (93/100)
-           - Digital Image Processing (94/100)
-
-          🎓BSc Physics
-          🏫Shandong University (Project 985), China
-          🕓2017-09 to 2021-06
-          📑GPA: 88.01/100
-
-          ✨Courses included:
-           - Optcis (93/100)
-           - Physics Experiment (including 7 experimental courses, all "Excellent")
-    design:
-      spacing:
-        padding: ['1px', '0', '20px', '0']
-      columns: '2'
   - block: resume-experience
     content:
       username: admin
