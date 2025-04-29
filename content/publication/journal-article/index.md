@@ -35,14 +35,14 @@ publication_short: ""
 summary: "Nature Communications 15, 3944 (2024)"
 
 tags:
-- Ultra-thin optical device + self-learning algorithm
+- published paper
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.nature.com/articles/s41467-024-48213-4
+url_code: 'https://doi.org/10.5281/zenodo.10674373'
 
 
 # Featured image

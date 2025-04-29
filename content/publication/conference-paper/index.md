@@ -34,7 +34,7 @@ publication_short: Oral Presentation in (**PIERS**), Prague, Czech Republic (202
 summary: "Oral Presentation at Progress in Electromagnetics Research Symposium (PIERS), Prague, Czech Republic (2023)"
 
 tags:
-  - 'Optical chip, Machine learning'
+  - 'Oral Presentation'
 
 # Display this page in the Featured widget?
 featured: true
@@ -84,4 +84,6 @@ Oral Presentation at Progress in Electromagnetics Research Symposium (**_PIERS_*
 Programmable linear optics is well-placed in quantum information science. Recently, the applications of programmable linear optics in neural networks has drawn significant interest because of their potential to enhance computational speed and power efficiency. The interferometers composed of beam splitters and phase shifters have been proposed to implement arbitrary linear transformations. In this work, we propose a novel neural network scheme based on the recent quantum network structure using Reck's design of a photonic chip. By combining the decoherence processor and a programmable chip, we can implement more complex learning tasks compared to classical counterpart. We construct a model of a quantum neural network (QNN) with only a few neurons in a 8 x 8 photonic chip, along with a controlled decoherence processor before the programmable chip. We numerically show that the proposed QNN is able to perform function approximation, data classification, and sequence classification tasks. Furthermore, we compare the performance of QNN with a classical neural network (CNN) that has an analogous network structure. Our results show that QNN has advantages in terms of improving the accuracy and rate of training convergence. Finally, we show scalability of the proposed QNN scheme by increasing the number of neurons. The proposed linear-optics-based QNN has promising applications in various fields of quantum optics, including information processing, quantum computation, and machine learning.
 
 
-![screen reader text](1.jpg =200)
+![screen reader text](1.jpg "caption")
+
+{{< figure src="1.jpg" caption="**Figure 1.** this is caption" alt="screen reader text" width="80%" >}}
