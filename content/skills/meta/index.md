@@ -18,7 +18,7 @@ All codes in my main work **Efficient characterizations of multiphoton states wi
 
 Optimization is neccessary in some simulation to find the best solution, but in most realistic cases, local optimum exists. Global optimization algorithms like SPSA, SGD and basinhopping could be more likely to find global optimum.
 
-  {{< figure src="featured.jpg" caption="Global optimization" alt="screen reader text" width="80%" >}}
+{{< figure src="featured.jpg" caption="Global optimization" alt="screen reader text" width="80%" >}}
 
 ## Parallel processing
 
@@ -32,7 +32,7 @@ However, this disadvantage could be mitigated using `numba` in python. This pack
 
 ## Digital image processing
 
-In my class 'Digital Image Processing', I have learned most algorithms related to image processing, which is frequently used in my astronomical photography.
+In course _Digital_ _Image_ _Processing_, I have learned most algorithms related to image processing, which is frequently used in my astronomical photography.
 
 ## 3D graph animation
 
