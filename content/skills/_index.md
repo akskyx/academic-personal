@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: skills
     content:
       title: Teaching
       filters:
         folders:
-          - teaching
+          - skills
     design:
       view: article-grid
       columns: 2
