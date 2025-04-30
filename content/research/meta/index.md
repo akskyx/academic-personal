@@ -13,14 +13,11 @@ image:
 Metasurface enables compact measurement of polarization. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton states, including using fewer measurements, having higher accuracy, and being robust against experimental imperfections. 
 
 
-## 3D animation
+## 🎥 3D animation
 
-I have made a 3d animation to demonstrate the experimental setup:
+I have made a 3d animation to clearly demonstrate the experimental setup:
 
-{{</* video src="3d.mp4" controls="yes" */>}}
-{{</* video src="/media/3d.mp4" controls="yes" */>}}
-
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube jBhOOWGW8D4 >}}
 
 **Youtube**:
 
@@ -36,103 +33,20 @@ Videos may be added to a page by either placing them in your `assets/media/` med
 
     {{</* video src="my_video.mp4" controls="yes" */>}}
 
-## Podcast
+## 🧑🏻‍🔧️ Experimental setup
 
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
+{{< figure src="exp.jpg" caption="Experimental setup of microscope and coupling system" alt="screen reader text" width="100%" >}}
 
-    {{</* audio src="ambient-piano.mp3" */>}}
+## 💻 Algorithm enhances efficiency
 
+Combining self-learning algorithm with shadow tomography, we propose SLST protocol, which enhances the efficiency in the reconstruction of multiphoton states, including using fewer measurements, having higher accuracy. In addition, by introducing calibration, we observe SLST improves the robustness against experimental imperfections.
 
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
-
-{{% callout note %}}
-We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
-{{% /callout %}}
-
-Example **math block**:
-
-```latex
-{{</* math */>}}
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-{{< /math >}}
-
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-{{</* math */>}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-{{< /math >}}
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+{{< figure src="algorithm.jpg" caption="Illustration of the self-learning algorithm and how quantum states are reconstructed by this iterative process" alt="screen reader text" width="80%" >}}
 
 
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
 
-renders as
+## ⚙️ Metasurface enables this algorithm
 
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
+Metasurface could realize octahedron POVM, enabling the efficient algorithm mentioned before.
 
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
+{{< figure src="metasurface.jpg" caption="POVM realized by Metasurface enables this algorithm" alt="screen reader text" width="80%" >}}
