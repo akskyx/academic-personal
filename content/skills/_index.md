@@ -16,7 +16,7 @@ sections:
       title: Skills
       filters:
         folders:
-          - research
+          - skills
     design:
       view: article-grid
       columns: 2

@@ -26,7 +26,7 @@ Some simulations require larger circulations. Using `multiprocessing`, we could 
 
 ## Code optimization for high performance
 
-Python is powerful, which saves the time of writing code. But python is kind of slow, compared to C, Fortran, Matlab... 
+Python is convient, which saves the time of writing code. But python is kind of slow, compared to C, Fortran, Matlab... 
 
 However, this disadvantage could be mitigated using `numba` in python. This package is tricky and has certain requirements for the code structure.
 
