@@ -62,11 +62,6 @@ education:
       Courses included:
       - Advanced Optics (93/100)
       - Digital Image Processing (94/100)
-
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: BSc Physics
     institution: Shandong University (Project 985), China
     date_start: 2017-09-01
@@ -86,7 +81,7 @@ work:
     date_end: '2024-06-23'
     summary: |2-
       Responsibilities include:
-      - Completing the new version of two experimental lecture notes (Zeeman effect and acousto-optic effect)
+      - Completing the new version of three experimental lecture notes (Zeeman effect, quantum computation with NV center and acousto-optic effect)
       - Running simulation and making videos to explaining the principle of acousto-optic effect
       - Renovating and upgrading the original experimental setup
 
@@ -136,29 +131,26 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Academic First-Class Scholarship
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    url: 
+    date: '2018-11-25'
     awarder: Shandong University
+    icon: 🥇
     summary: |
       Top 5% in academic performance
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: Third Prize, National College Student Energy Conservation and Emission Reduction Social Practice and Technology Competition
+    url: 
+    date: '2020-07-01'
+    awarder: National College Students' Energy Conservation and Emission Reduction Social Practice and Science and Technology Competition Committee
+    icon: 🏆
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Leader of this project. We designed a marine oil spill recovery device based on honeycombNetwork working mode and demonstrate this idea in a miniature model.
+  - title: 'Outstanding Graduate of Shandong University'
+    url: 
+    date: '2021-06-21'
+    awarder: Shandong University
+    icon: 🏅
     summary: |
-      Top 5% in academic performance
+      Reward for academic performance during the undergraduate
 ---
 
 ## About Me
