@@ -151,7 +151,13 @@ The optical chip can be controlled by changing phase of light in each path, whic
 {{< figure src="chip.jpg" caption="Experimental platform for optical chip" alt="screen reader text" width="100%" >}}
 
 
+## 💻 Hybrid neural network
+
 The hybrid quantum-classical neural network has following advantages:
 - Self-adaptive
 - Avoid theoretical calculation of post process
 - Robust against static noise
+
+{{< figure src="ONN.jpg" caption="Concept of hybrid quantum-classical neural network
+with optical chip. (a) General neural network architecture composed of an unitary transformation and classical neural network layers including active functions. (b) Unitary evolution on the input light with interferometers on a optical chip. The output is transferred to electron signals by light detectors." alt="screen reader text" width="100%" >}}
+
