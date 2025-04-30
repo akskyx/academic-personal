@@ -147,6 +147,10 @@ Combining optical chips with traditional electronic hardware, we have developed 
 ## 🧑🏻‍🔧️ Experimental platform
 
 The optical chip can be controlled by changing phase of light in each path, which is realized by adjusting voltage on the electrode patches. I have designed and set up the platform including voltage-control system, temperature-control module and light-coupling system.
+
+{{< figure src="chip.jpg" caption="Experimental platform for optical chip" alt="screen reader text" width="100%" >}}
+
+
 The hybrid quantum-classical neural network has following advantages:
 - Self-adaptive
 - Avoid theoretical calculation of post process
