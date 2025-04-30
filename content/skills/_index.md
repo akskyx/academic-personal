@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Skills
 summary: My courses
 type: landing
 
@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: skills
     content:
-      title: Teaching
+      title: Skills
       filters:
         folders:
           - skills
