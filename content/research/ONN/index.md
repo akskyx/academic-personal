@@ -158,6 +158,5 @@ The hybrid quantum-classical neural network has following advantages:
 - Avoid theoretical calculation of post process
 - Robust against static noise
 
-{{< figure src="ONN.jpg" caption="Concept of hybrid quantum-classical neural network
-with optical chip. (a) General neural network architecture composed of an unitary transformation and classical neural network layers including active functions. (b) Unitary evolution on the input light with interferometers on a optical chip. The output is transferred to electron signals by light detectors." alt="screen reader text" width="100%" >}}
+{{< figure src="2.jpg" caption="Concept of hybrid quantum-classical neural network with optical chip. (a) General neural network architecture composed of an unitary transformation and classical neural network layers including active functions. (b) Unitary evolution on the input light with interferometers on a optical chip. The output is transferred to electron signals by light detectors." alt="screen reader text" width="100%" >}}
 
