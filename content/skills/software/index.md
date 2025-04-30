@@ -1,7 +1,7 @@
 ---
-title: Scientific software
+title: Research-related software
 summary: COMSOL, Zemax, Wolfram Mathematica, Solidworks, Blender, AutoCAD, Illustrator
-date: 2025-5-1
+#date: 2025-5-1
 type: docs
 math: false
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Programming (python)
 summary: Python is powerful
-date: 2025-5-1
+#date: 2025-5-1
 type: docs
 math: false
 tags:
