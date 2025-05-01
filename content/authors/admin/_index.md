@@ -126,27 +126,24 @@ awards:
     url: 
     date: '2018-11-25'
     awarder: Shandong University
-    icon: 🥇
     summary: |
       Top 5% in academic performance
   - title: Third Prize, National College Student Energy Conservation and Emission Reduction Social Practice and Technology Competition
     url: 
     date: '2020-07-01'
     awarder: National College Students' Energy Conservation and Emission Reduction Social Practice and Science and Technology Competition Committee
-    icon: 🏆
     summary: |
       Leader of this project. We designed a marine oil spill recovery device based on honeycombNetwork working mode and demonstrate this idea in a miniature model.
   - title: 'Outstanding Graduate of Shandong University'
     url: 
     date: '2021-06-21'
     awarder: Shandong University
-    icon: 🏅
     summary: |
       Reward for academic performance during the undergraduate
 ---
 
 ## About Me
 
-Welcome! I am a master graduted from Shandong University (Jinan, China), specializing in quantum optics. My main research involves using novel optical device and designing corresponding algorithm to improve the efficiency of characterizing photonic states. 
+Welcome! I am a master graduted from Shandong University (Jinan, China), specializing in quantum optics. My main research involves using a novel optical device and designing corresponding algorithms to improve the efficiency of characterizing photonic states. 
 
-All studies can be found in [Research](https://kuian.netlify.app/research/) section. I am recently looking for PhD position in optics and imaging.
+All studies can be found in [Research](https://kuian.netlify.app/research/) section. I am recently looking for a PhD position in optics and imaging.
