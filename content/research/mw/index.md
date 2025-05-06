@@ -1,11 +1,11 @@
 ---
-title: zAcousto-optic effect
+title: How micro-nano structures on metal inflence microwave discharge 
 summary: This research mainly focuses on how light and sound interact in the water, part of which has been put on the textbook of this teaching experiment to rectify its explanation. 
 #date: 2023-10-24
 type: docs
 math: false
 tags:
-  - 2020-2024
+  - 2018-2020
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
@@ -16,13 +16,14 @@ After some quantitative calculations, I found that such an obvious fringe patter
 
 The corrected explanation and corresponding simulation is now presented in the new edtion of the textbook.
 
-## 🎥 Animation
 
-An animation is made to clearly explain how sound wave influnences light:
+
+## 💻 Experiment
+
+{{< figure src="mw_exp.png" caption="experimental setup to explore the enhanced microwave discharge induced by rough surface" alt="screen reader text" width="100%" >}}
+
+## 🎥 Video of microwave discharge in this experiment
+
+This is a video record when treated copper wires are discharging in the microwave oven:
 
 {{< youtube ygOh8f5qlfc >}}
-
-
-## 💻 Simulation with COMSOL
-{{< figure src="low_f.png" caption="Simulation of light distribution in different length" alt="screen reader text" width="100%" >}}
-
