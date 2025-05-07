@@ -13,10 +13,10 @@ I have participated in experiment since my second year in undergraduate study. B
 
 ## Setting up sophisticated optical experimental platforms
 
-{{< figure src="setup.jpg" caption=" " alt="screen reader text" width="90%" >}}
+{{< figure src="setup.jpg" caption=" " alt="screen reader text" width="100%" >}}
 
 ## Programming instruments in experiment
 
-{{< figure src="3.jpg" caption="Programming the electric rotating wave-plate and detecting light intensity. This figure showcases gradient descent algorithm to automatically calibrate wave-plate" alt="screen reader text" width="80%" >}}
+{{< figure src="3.jpg" caption="Programming the electric rotating wave-plate and detecting light intensity. This figure showcases gradient descent algorithm to automatically calibrate wave-plate" alt="screen reader text" width="100%" >}}
 
-{{< figure src="4.jpg" caption="Replacing the camera in a microscope with a CMOS connecting to Raspberry Pi enables real-time processing of picture. This figure demonstrates using the real-time post-processing to assist me to stick prisms to the right position" alt="screen reader text" width="80%" >}}
+{{< figure src="4.jpg" caption="Replacing the camera in a microscope with a CMOS connecting to Raspberry Pi enables real-time processing of picture. This figure demonstrates using the real-time post-processing to assist me to stick prisms to the right position" alt="screen reader text" width="100%" >}}

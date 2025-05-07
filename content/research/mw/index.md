@@ -1,6 +1,6 @@
 ---
-title: How micro-nano structures on metal inflence microwave discharge 
-summary: This research mainly focuses on how light and sound interact in the water, part of which has been put on the textbook of this teaching experiment to rectify its explanation. 
+title: Microwave discharge of metal enhanced by micro-nano structures on surface  
+summary: The microwave-induced discharge process and associated high-energy-site effect can be optimized in a controlled manner through surface design, since the discharge is fundamentally related to the field emission of electrons from the initiator.
 #date: 2023-10-24
 type: docs
 math: false
@@ -10,20 +10,16 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-This research started with an advanced experimental course in the the third year of undergraduate study, where I found some errors in the explanation of experiment "Acousto-optic effect". It interpreted the fringe pattern as the results of different transmissivity induced by different refractive index.
-
-After some quantitative calculations, I found that such an obvious fringe pattern can not be caused by variation of transmissivity. Since then, I have learned useful tools including Wolframe Mathematica and COMSOL to explore its more reasonable explanation. Finally, I found the wavefront was the key point and introduced huyghens principle to derive the explanation, and even predicted that the fringe pattern would have periodic focal length due to Talbot effect.
-
-The corrected explanation and corresponding simulation is now presented in the new edtion of the textbook.
+I started this research from my second-year undergraduate study in weekends and vacations. The result is presented in the published paper **_Frontiers_ _in_ _Energy_** 16, 931–942 (2022). This paper contains two main parts: microwave-SiC discharge and microwave-metal discharge, and I complete the experiment and data analysis of the second part.
 
 
 
 ## 💻 Experiment
 
-{{< figure src="mw_exp.png" caption="experimental setup to explore the enhanced microwave discharge induced by rough surface" alt="screen reader text" width="100%" >}}
+{{< figure src="mw_exp.jpg" caption="experimental setup to explore the enhanced microwave discharge induced by rough surface" alt="screen reader text" width="100%" >}}
 
 ## 🎥 Video of microwave discharge in this experiment
 
 This is a video record when treated copper wires are discharging in the microwave oven:
 
-{{< youtube ygOh8f5qlfc >}}
+{{< youtube zG6NUboBa4U >}}
