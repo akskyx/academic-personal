@@ -1,5 +1,5 @@
 ---
-title: Investigate acousto-optic effect
+title: Investigating acousto-optic effect
 summary: This research mainly focuses on how light and sound interact in the water, part of which has been put on the textbook of this teaching experiment to rectify its explanation. 
 #date: 2023-10-24
 type: docs
