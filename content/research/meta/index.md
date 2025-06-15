@@ -1,6 +1,6 @@
 ---
-title: Efficient characterization of photons with an ultral-thin optical device
-summary: Metasurface enables compact measurement of polarization. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton states, including using fewer measurements, having higher accuracy, and being robust against experimental imperfections. 
+title: Efficient characterization of photons with an ultra-thin optical device
+summary: Metasurface enables compact measurement of polarization. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton states, including requiring fewer measurements, achieving higher accuracy, and demonstrating robustness to experimental imperfections. 
 #date: 2023-10-24
 type: docs
 math: false

@@ -1,6 +1,6 @@
 ---
 title: Programming (python)
-summary: Python is powerful 
+summary: Global optimization, parallel processing, digital image processing, machine learning...
 #date: 2023-10-24
 type: docs
 math: false

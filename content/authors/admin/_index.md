@@ -74,7 +74,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Completing the new version of three experimental lecture notes (Zeeman effect, quantum computation with NV center and acousto-optic effect)
-      - Running simulation and making videos to explaining the principle of acousto-optic effect
+      - Running simulation and making videos to explain the principle of acousto-optic effect
       - Renovating and upgrading the original experimental setup
 
 # Skills
@@ -133,7 +133,7 @@ awards:
     date: '2020-07-01'
     awarder: National College Students' Energy Conservation and Emission Reduction Social Practice and Science and Technology Competition Committee
     summary: |
-      Leader of this project. We designed a marine oil spill recovery device based on honeycombNetwork working mode and demonstrate this idea in a miniature model.
+      Led a team that designed a honeycomb-network marine-oil-spill recovery device and demonstrated a working miniature model.
   - title: 'Outstanding Graduate of Shandong University'
     url: 
     date: '2021-06-21'
@@ -144,6 +144,6 @@ awards:
 
 ## About Me
 
-Welcome! I am a master graduted from Shandong University (Jinan, China), specializing in quantum optics. My main research involves using a novel optical device and designing corresponding algorithms to improve the efficiency of characterizing photonic states. 
+Welcome! I hold a Master’s degree from Shandong University (Jinan, China), specializing in quantum optics. My main research involves using a novel optical device and designing corresponding algorithms to improve the efficiency of characterizing photonic states. 
 
-All studies can be found in [Research](https://kuian.netlify.app/research/) section. I am recently looking for a PhD position in optics and imaging.
+Details of my studies are available in the [Research](https://kuian.netlify.app/research/) section. I am currently seeking a PhD position in optics and imaging.
