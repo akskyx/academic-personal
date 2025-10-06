@@ -31,7 +31,7 @@ The simulation results in this figure suggests that it is feasible to use water 
 ## Specific realization of standing capillary wave
 
 
-{{< figure src="water.gif" caption="Using an oscillating ring to realize standing capillary wave. The radius of this water tank is 200 mm, and depth of the still water is 35 mm. Since the surface is not in the idle shape, the central area with the diameter being 60 mm is chosen to be the effective area, in oder to mitigate the optical aberration." alt="screen reader text" width="100%" >}}
+{{< figure src="water.gif" caption="Using an oscillating ring to realize standing capillary wave. The radius of this water tank is 200 mm, and depth of the still water is 35 mm. Since the surface is not in the idle shape, the central area with the diameter being 60 mm is chosen to be the effective area, in oder to mitigate the optical aberration. The ooscillation frequency is 3 Hz." alt="screen reader text" width="100%" >}}
 
 
 
