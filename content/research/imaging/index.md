@@ -1,6 +1,6 @@
 ---
-title: 3D Imaging with a simple Water-Wave-Based Tunable Lens
-summary: Metasurface enables compact measurement of polarization. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton states, including requiring fewer measurements, achieving higher accuracy, and demonstrating robustness to experimental imperfections. 
+title: 3D imaging with a simple water-wave-based tunable lens
+summary: An independent work. I found the idea that water is used as a lens pretty interesting, so I have run some simulations to validate its feasibility. By applying an external force to oscillate the water surface, a stable capillary wave is generated, forming a periodic convex and concave surface. This dynamic structure can function as a lens with a rapidly shifting focal length. When integrated into an imaging system, this lens enables high-speed depth scanning of the object. The resulting image stack is then processed to reconstruct the depth information of the object, achieving single-shot 3D surface imaging. This method offers an interesting and low-cost solution for 3D imaging.
 #date: 2023-10-24
 type: docs
 math: false
@@ -10,23 +10,28 @@ image:
   caption: 'no caption'
 ---
 
-Metasurface enables compact measurement of polarization. Integrating self-learning and calibration algorithms, we observe notable advantages in the reconstruction of multiphoton states, including using fewer measurements, having higher accuracy, and being robust against experimental imperfections. 
+*This is an independent work since I already left the lab. I found the idea (using water as a lens) pretty interesting, so I have run some simulations to validate its feasibility. The next step might be experimental demonstration.*
+
+By applying an external force to oscillate the water surface, a stable capillary wave is generated, forming a periodic convex and concave surface. This dynamic structure can function as a lens with a rapidly shifting focal length. When integrated into an imaging system, this lens enables high-speed depth scanning of the object. The resulting image stack is then processed to reconstruct the depth information of the object, achieving single-shot 3D surface imaging. This method offers an interesting and low-cost solution for 3D imaging.
 
 
-🎥 **3D animation**
+## Schematic of 3D depth reconstruction
 
-I have made a 3d animation to clearly demonstrate the experimental setup:
-{{< figure src="featured.jpg" caption="Experimental setup of microscope and coupling system" alt="screen reader text" width="100%" >}}
+{{< figure src="featured.jpg" caption="This system achieves 3D imaging using a simple tunable lens. A ​​standing capillary wave​​ on a liquid's surface creates a ​​variable-focus lens​​. As the lens's focal length rapidly oscillates, the ​​image sensor​​ captures a ​​focal stack​​ of the object. This stack of images at different focus distances is then processed to perform ​​depth reconstruction​​, creating a 3D model." alt="screen reader text" width="100%" >}}
 
-🧑🏻‍🔧️ Experimental setup
+## Simulation results
 
-{{< figure src="simulation.gif" caption="Experimental setup of microscope and coupling system" alt="screen reader text" width="100%" >}}
+{{< figure src="simulation.gif" caption="Simulation of the water surface and its influence in a imaging system. (a) The measured object distance is plotted against time, where the object distance is defined as the distance between the object plane and the first lens (Lens 1).
+​(b) A 3D visualization of the water surface deformation under external periodic excitation. This simulation is implemented via python according to the shallow water equation.
+​​(c) Spot diagrams simulated in Zemax (2024R1) for different object heights.​​ The light intensity distributions at the image plane are shown for object heights of 0 mm, 10 mm, and 20 mm. This spot diagram is generated via Zemax (2024R1).
+​​(d) Schematic of the optical imaging system.​​ The system consists of a shifting object plane, Lens 1 (f=200 mm), a water tank, Lens 2 (f=300 mm), and an image plane. The ray tracing simulation is implemented by Zemax (2024R1)" alt="screen reader text" width="100%" >}}
 
-💻 Algorithm enhances efficiency
+The simulation results in this figure suggests that it is feasible to use water surface as a tunable lens in an imaging system. The designed imaging system shown in (d) can realize a scanning task, with the scanning depth being about 100 mm and the scanning width being 40 mm.
 
-Combining self-learning algorithm with shadow tomography, we propose SLST protocol, which enhances the efficiency in the reconstruction of multiphoton states, including using fewer measurements, having higher accuracy. In addition, by introducing calibration, we observe SLST improves the robustness against experimental imperfections.
+## Specific realization of standing capillary wave
 
-{{< figure src="algorithm.jpg" caption="Illustration of the self-learning algorithm and how quantum states are reconstructed by this iterative process" alt="screen reader text" width="100%" >}}
+
+{{< figure src="water.gif" caption="Using an oscillating ring to realize standing capillary wave. The radius of this water tank is 200 mm, and depth of the still water is 35 mm. Since the surface is not in the idle shape, the central area with the diameter being 60 mm is chosen to be the effective area, in oder to mitigate the optical aberration." alt="screen reader text" width="100%" >}}
 
 
 
