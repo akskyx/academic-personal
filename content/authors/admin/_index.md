@@ -144,6 +144,6 @@ awards:
 
 ## About Me
 
-Welcome! I hold a Master’s degree from Shandong University (Jinan, China), specializing in quantum optics. My main research involves using a novel optical device and designing corresponding algorithms to improve the efficiency of characterizing photonic states. 
+Welcome! I hold a Master’s degree from Shandong University (Jinan, China), specializing in quantum optics. My main research involves using a novel optical device and designing corresponding algorithms to improve the efficiency of characterizing photonic states. My recent idea involves using water wave as a tunable lens to realize 3D imaging.
 
 Details of my studies are available in the [Research](https://kuian.netlify.app/research/) section. I am currently seeking a PhD position in optics and imaging.

@@ -14,7 +14,7 @@ This research started with an advanced experimental course in the the third year
 
 After some quantitative calculations, I found that such an obvious fringe pattern can not be caused by variation of transmissivity. Since then, I have learned useful tools including Wolframe Mathematica and COMSOL to explore its more reasonable explanation. Finally, I found the wavefront was the key point and introduced huyghens principle to derive the explanation, and even predicted that the fringe pattern would have periodic focal length due to Talbot effect.
 
-The corrected explanation and corresponding simulation is now presented in the new edtion of the textbook.
+The corrected explanation and corresponding simulation is now presented in the new edtion of the experimental lecture notes in that lab.
 
 ## 🎥 Animation
 
