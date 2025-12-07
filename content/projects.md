@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 2024-05-19
+date: 2025-05-19
 type: landing
 
 design:
@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I enjoy making things and writing code. Please see [Research](https://kuian.netlify.app/research/) section for details.
       filters:
         folders:
           - project
